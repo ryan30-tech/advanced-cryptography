@@ -1,4 +1,4 @@
-message = "HELLO"
+message = "Hello world cryptography"
 key = 12
 
 encrypted = ""
